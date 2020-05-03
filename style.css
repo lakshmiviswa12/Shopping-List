@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+h5{
+  margin-top: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.list {
+    font-size: 25px;
+    color:white;
+    text-align: center;
+  }
+  
+  table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:darkolivegreen;
+    background-color:rosybrown;
+  }
+  
+ .table-responsive{
+background-image: url('images/bg2.jpg');
+background-position: bottom;
+  }
+ 

@@ -1,0 +1,84 @@
+{
+    "item" :[
+        {
+            "SerialNo" : "1",
+            "Name" : "Milk",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department" : "Food Item",
+            "Notes" : "Milma or Muralya "
+        },
+        {
+            "SerialNo" : "2",
+            "Name" : "Bread",
+            "Quantity" : "1",
+            "Unit" : "Packet",
+            "Department" : "Food Item",
+            "Notes" : "Check expiry date (min 5 days from purchase date)"
+        },
+        {
+            "SerialNo" : "3",
+            "Name" : "Tea Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Red label or Kannan devan"
+        },
+        {
+            "SerialNo" : "4",
+            "Name" : "Sugar",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Powdered sugar is more preferred"
+        },
+        {
+            "SerialNo" : "5",
+            "Name" : "Rice",
+            "Quantity" : "3",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Nirapara round rice"
+        },
+        {
+            "SerialNo" : "6",
+            "Name" : "Cooking Oil",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Sunflower oil is preferred. If not available, buy coconut oil from mill."
+        },
+        {
+            "SerialNo" : "7",
+            "Name" : "Salt",
+            "Quantity" : "1",
+            "Unit" : "Packet",
+            "Department" : "Food Item",
+            "Notes" : "Also buy Rock salt of small packet(Rs 50),if available."
+        },
+        {
+            "SerialNo" : "8",
+            "Name" : "Soap",
+            "Quantity" : "1",
+            "Unit" : "Packet",
+            "Department" : "Healthcare",
+            "Notes" : "Pears brown color bar is more preferred, buy Chandrika if it's not available."
+        },
+        {
+            "SerialNo" : "9",
+            "Name" : "Sanitizer",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department" : "Healthcare",
+            "Notes" : "with alcohol content is more preferred"
+        },
+        {
+            "SerialNo" : "10",
+            "Name" : "Moisturiser",
+            "Quantity" : "1",
+            "Unit" : "Bottle",
+            "Department" : "Beautycare",
+            "Notes" : "Check ingredients and expiry date(1 year from date of purchase). Should contain vitamin E."
+        }
+    ]
+}
